@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yogesh</h1>
 <h3 align="center">Aspiring A.I engineer</h3>
 
+<img align="right" alt="Coding" width="400" scr="https://camo.githubusercontent.com/0f29f451e1d49ffaafadef1244f72c63d200f4058681268b62de33103cf612d7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65302f64622f38362f65306462383639303839353430376430333962393466373562363234343033352e676966">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh25082004&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh25082004" /> </p>
 
 - 🌱 I’m currently learning **DSA, C++, Backend, Framework**
