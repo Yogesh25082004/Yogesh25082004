@@ -1,3 +1,5 @@
+![logo](https://github.com/Yogesh25082004/Yogesh25082004/blob/main/Hello%2C%20my%20name%20is%20Yogesh.%20..png)
+
 <h1 align="center">Hi 👋, I'm Yogesh</h1>
 <h3 align="center">Aspiring A.I engineer</h3>
 
